@@ -1,0 +1,2 @@
+// cssMock.js
+module.exports = {};

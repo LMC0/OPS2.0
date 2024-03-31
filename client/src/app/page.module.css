@@ -1,0 +1,39 @@
+.main {
+    width: 95%;
+    margin: auto;
+}
+
+.title {
+    padding:.5rem 2rem;
+}
+
+.button {
+    color: black;
+    background-color: antiquewhite;
+    margin:.5rem 1rem;
+    padding:.5rem 1rem;
+    border-radius:70px;
+}
+
+.containerStyle{
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-start;
+}
+
+.content{
+    width:20%;
+}
+
+.ulGroupStyle{
+    list-style:none;
+    justify-content:space-between;
+}
+
+.grouper{
+    background-color:#f8eadd;
+    margin:0 30px;
+    padding:10px 1px;
+    border-radius:20px;
+    width: 100%;
+}
